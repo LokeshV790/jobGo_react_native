@@ -8,6 +8,23 @@
       "expo-router"
     ],
     "name": "jobs",
-    "slug": "jobs"
+    "slug": "jobit",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "89d2c3eb-a712-4075-9bba-62afed79fa24"
+      }
+    },
+    "owner": "lokesh_v790",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/89d2c3eb-a712-4075-9bba-62afed79fa24"
+    },
+    "android": {},
+    "ios": {}
   }
 }
